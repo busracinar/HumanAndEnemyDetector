@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>71f2OzRWFfL.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\71f2OzRWFfL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enemy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>40</ymin>
+			<xmax>790</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

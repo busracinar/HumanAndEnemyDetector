@@ -1,0 +1,10 @@
+item {
+  id: 1
+  name: 'enemy'
+}
+
+item {
+  id: 2
+  name: 'human'
+}
+
